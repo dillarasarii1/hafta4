@@ -34,4 +34,4 @@ def bahis_oyna():
         print("Mevcut bakiyeniz: " + str(bakiye) + " TL")
 
     print("Oyun bitti!")
-    print(f"Kalan bakiyeniz: {bakiye} TL")
+    print("Kalan bakiyeniz: " + str(bakiye) + " TL")
