@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "website adresi girin:" ,
+echo "website adresi girin:" 
 read $site
 ping $site
